@@ -36,3 +36,13 @@ Welcome to **Langchain: Chat with SQL Database**! This Streamlit application all
    - For SQLite: Place your `student.db` file in the project directory.
 
    - For MySQL: Ensure you have the necessary credentials (hostname, username, password, and database name).
+  
+## Results
+
+# SQLite database
+![image](https://github.com/user-attachments/assets/e9499366-a6ba-4ac4-90b0-accf6954b89e)
+
+# MySQL Workbench
+![image](https://github.com/user-attachments/assets/152c2373-c9b6-4160-9b5a-1221a09fc3a3)
+
+
