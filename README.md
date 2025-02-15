@@ -9,17 +9,16 @@ Welcome to **Langchain: Chat with SQL Database**! This Streamlit application all
 ## 🚀 Features
 
 - **Natural Language Queries**: Ask questions in plain English, and the app will translate them into SQL queries.
-
 - **Support for Multiple Databases**:
 
-  - **SQLite**: Use a local SQLite database (`student.db`).
+   - **SQLite**: Use a local SQLite database (`student.db`).
 
-  - **MySQL**: Connect to your MySQL database by providing credentials.
--
+   - **MySQL**: Connect to your MySQL database by providing credentials.
+
 - **GROQ API Integration**: Leverage the power of GROQ's LLM for intelligent query generation.
--
+
 - **Interactive Chat Interface**: Built with Streamlit for a seamless user experience.
--
+
 - **Clear Chat History**: Easily reset the conversation with a single click.
 
 ---
