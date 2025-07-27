@@ -2,7 +2,7 @@
 
 # Langchain: Chat with Database 🗄️🤖
 
-Welcome to Langchain: Chat with SQL Database! This Streamlit application allows you to interact with SQL databases using natural language queries powered by Langchain and GROQ's LLM (Language Learning Model). Whether you're using a local SQLite database, connecting to a MySQL database, or querying a Neo4j graph database, this tool makes querying databases as easy as having a conversation.
+Welcome to Langchain: Chat with SQL & Neo4J Database! This Streamlit application allows you to interact with SQL & Neo4J databases using natural language queries powered by Langchain and GROQ's LLM (Language Learning Model). Whether you're using a local SQLite database, connecting to a MySQL database, or querying a Neo4j graph database, this tool makes querying databases as easy as having a conversation.
 
 # 🚀 Features
 
